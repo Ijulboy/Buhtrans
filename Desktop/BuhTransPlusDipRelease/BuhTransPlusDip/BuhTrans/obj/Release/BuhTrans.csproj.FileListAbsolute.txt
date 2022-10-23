@@ -1,0 +1,69 @@
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.csprojAssemblyReference.cache
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.frmAboutProgram.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.frmAdminMain.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.frmAdminStart.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.frmCars.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.frmCurrencies.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.frmEmployees.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.frmLogin.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.frmRateCurrency.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.frmSingup.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.frmUserMain.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.frmWaybills.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.Properties.Resources.resources
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.csproj.GenerateResource.cache
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.csproj.CoreCompileInputs.cache
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\bin\Release\BuhTrans.exe.config
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\bin\Release\BuhTrans.exe
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\bin\Release\BuhTrans.pdb
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.exe
+D:\document\PROJECT_Likhtar\BuhTrans\BuhTrans\obj\Release\BuhTrans.pdb
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\bin\Release\BuhTrans.exe.config
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\bin\Release\BuhTrans.exe
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\bin\Release\BuhTrans.pdb
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.csprojAssemblyReference.cache
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmAboutProgram.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmAdminMain.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmAdminStart.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmCars.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmCurrencies.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmEmployees.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmLogin.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmRateCurrency.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmSingup.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmUserMain.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmWaybills.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.Properties.Resources.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.frmWaybillList.resources
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.csproj.GenerateResource.cache
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.csproj.CoreCompileInputs.cache
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.exe
+D:\document\PROJECT_Likhtar\На отправку\BuhTransDisign\BuhTrans\obj\Release\BuhTrans.pdb
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\bin\Release\BuhTrans.exe.config
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\bin\Release\BuhTrans.exe
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\bin\Release\BuhTrans.pdb
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.csprojAssemblyReference.cache
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.csproj.ResolveComReference.cache
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmAboutProgram.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmAdminMain.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmAdminStart.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmCars.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmCurrencies.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmEmployees.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmFuelConsumptionRates.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmLogin.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmMileageReport.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmNameServ.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmPeriodSelection.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmPeriodSelection2.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmRateCurrency.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmSingup.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmUserMain.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmWaybills.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmWaybillsContent.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.Properties.Resources.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.frmWaybillList.resources
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.csproj.GenerateResource.cache
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.csproj.CoreCompileInputs.cache
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.exe
+D:\document\PROJECT_Likhtar\BuhTransPlusDip\BuhTrans\obj\Release\BuhTrans.pdb
